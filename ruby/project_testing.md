@@ -74,6 +74,7 @@ Only write exactly enough code to make your test pass.  Oftentimes, you'll end u
 * [Xavier Reid's solution](https://github.com/xreid/connect_four)
 * [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/tree/master/ruby/project15--connect-four)
 * [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/blob/master/ruby/testing-ruby/connect-four)
+* [Amrr Bakry's solution] (https://github.com/Amrrbakry/ruby_the_odin_project/tree/master/connect_four)
 * Add your solution above this line!
 
 
